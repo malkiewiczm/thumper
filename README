@@ -1,5 +1,8 @@
-# Thumper
 This is a template machine
+
+In an html file, use a %@ to denote a top level link and %% to denote
+a sub link. The line must start with one of these tokens, otherwise
+the line will not be processed.
 
 Sample input is in Sample.in
 
